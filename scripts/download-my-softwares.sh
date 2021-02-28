@@ -1,5 +1,5 @@
 # dev 
-sudo apt install gitk meld mariadb-server php8.0-mysql php8.0-gd 
+sudo apt install curl gitk meld mariadb-server php8.0-mysql php8.0-gd 
 php8.0-zip php8.0-curl php8.0-mbstring php8.0-xml php8.0 build-essential cmake make 
 sublime-text git openjdk-8-jdk-headless openjdk-8-jre deluge mysql-workbench filezilla python3.7 -y
 
