@@ -15,3 +15,7 @@ sudo apt install vlc kazam openshot ffmpeg -y
 
 #gnome
 sudo apt install gnome-tweaks materia-gtk-theme gnome-shell-extension-dash-to-panel -y
+
+
+#cli tools
+sudo apt install ranger ncdu -y
