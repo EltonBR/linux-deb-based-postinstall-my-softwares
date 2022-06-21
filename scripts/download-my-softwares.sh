@@ -1,6 +1,8 @@
 # dev 
 sudo apt install gitk meld build-essential cmake make sublime-text git deluge python2.7 python3-venv filezilla python3.7 -y
 
+sudo apt install code -y
+
 #tools
 sudo apt install minicom openssh-server wine-stable wireshark remmina remmina-plugin-vnc remmina-plugin-rdp aircrack-ng nmap gparted deluge google-chrome-stable aria2 pdfimages -y
 
