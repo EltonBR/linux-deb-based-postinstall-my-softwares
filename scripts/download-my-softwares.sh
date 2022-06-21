@@ -1,5 +1,5 @@
 # dev 
-sudo apt install gitk meld build-essential cmake make sublime-text git deluge python2.7 python3-venv filezilla python3 -y
+sudo apt install gitk meld build-essential cmake make sublime-text git deluge python2.7 python3-venv filezilla python3 python3-distutils python3-venv -y
 
 sudo apt install code google-chrome-stable -y
 
