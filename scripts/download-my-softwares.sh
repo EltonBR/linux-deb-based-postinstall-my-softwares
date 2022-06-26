@@ -1,4 +1,5 @@
 sudo apt install python2.7 python3-venv python3 python3-distutils python3-venv -y
+sudo apt install git -y
 sudo apt install gitk meld build-essential cmake make -y
 
 #cli tools
@@ -15,7 +16,7 @@ sudo apt install sublime-text -y
 sudo apt install wireshark openssh-server -y
 
 #
-sudo apt install code google-chrome-stable git -y
+sudo apt install code google-chrome-stable -y
 
 #tools
 sudo apt install minicom remmina remmina-plugin-vnc remmina-plugin-rdp aircrack-ng nmap gparted deluge aria2 pdfimages -y
