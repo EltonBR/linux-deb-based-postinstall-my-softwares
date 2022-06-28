@@ -22,7 +22,7 @@ sudo apt install code google-chrome-stable -y
 sudo apt install minicom aircrack-ng gparted aria2 pdfimages -y
 
 #virtualization
-sudo apt install virtualbox qemu -y
+sudo apt install virtualbox qemu-system-x86 -y
 
 #image and 3D
 sudo apt install blender sweethome3d sweethome3d-furniture inkscape krita -y
