@@ -15,6 +15,10 @@ sudo apt install sublime-text timeshift -y
 #
 sudo apt install wireshark openssh-server -y
 
+
+sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev -y
+
+
 #
 sudo apt install code google-chrome-stable -y
 
