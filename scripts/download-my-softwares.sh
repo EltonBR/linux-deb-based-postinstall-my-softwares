@@ -12,9 +12,11 @@ sudo apt install deluge remmina -y
 #
 sudo apt install sublime-text timeshift -y
 
+sudo apt install merkaator marble osmctools -y
 #
 sudo apt install wireshark openssh-server -y
 
+sudo apt install gnuradio -y
 
 sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev -y
 
@@ -28,7 +30,7 @@ sudo apt install minicom aircrack-ng gparted aria2 -y
 sudo apt install pdfimages -y
 
 #virtualization
-sudo apt install virtualbox qemu-system-x86 -y
+sudo apt install qemu-system-x86 -y
 
 #image and 3D
 sudo apt install blender sweethome3d sweethome3d-furniture inkscape krita -y
