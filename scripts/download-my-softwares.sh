@@ -19,7 +19,9 @@ sudo apt install wireshark openssh-server -y
 sudo apt install code google-chrome-stable -y
 
 #tools
-sudo apt install minicom aircrack-ng gparted aria2 pdfimages -y
+sudo apt install minicom aircrack-ng gparted aria2 -y
+
+sudo apt install pdfimages -y
 
 #virtualization
 sudo apt install virtualbox qemu-system-x86 -y
