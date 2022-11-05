@@ -17,7 +17,7 @@ sudo apt install merkaator marble osmctools -y
 sudo apt install wireshark openssh-server -y
 
 sudo apt install gnuradio -y
-
+sudo apt install nfs-common -y
 sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev -y
 
 
