@@ -49,5 +49,9 @@ sudo apt install libhackrf-dev -y
 sudo apt install rtl-sdr -y
 sudo apt install librtlsdr-dev -y
 
+#DEV LIBS
+
+sudo apt install libfftw3-dev -y
+sudo apt install libncurses-dev 
 #gnome
 #sudo apt install gnome-tweaks materia-gtk-theme gnome-shell-extension-dash-to-panel gnome-shell-extension-arc-menu gnome-shell-extensions -y
