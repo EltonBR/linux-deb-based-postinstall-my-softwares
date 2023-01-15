@@ -31,7 +31,7 @@ sudo apt install pdfimages -y
 
 #virtualization
 sudo apt install qemu-system-x86 -y
-
+sudo apt install virt-manager gnome-boxes -y
 #image and 3D
 sudo apt install blender sweethome3d sweethome3d-furniture inkscape krita -y
 
