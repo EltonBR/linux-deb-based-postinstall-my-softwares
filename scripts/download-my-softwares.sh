@@ -52,6 +52,6 @@ sudo apt install librtlsdr-dev -y
 #DEV LIBS
 
 sudo apt install libfftw3-dev -y
-sudo apt install libncurses-dev 
+sudo apt install libncurses-dev -y
 #gnome
 #sudo apt install gnome-tweaks materia-gtk-theme gnome-shell-extension-dash-to-panel gnome-shell-extension-arc-menu gnome-shell-extensions -y
