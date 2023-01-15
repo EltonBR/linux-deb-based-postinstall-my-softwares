@@ -38,5 +38,15 @@ sudo apt install blender sweethome3d sweethome3d-furniture inkscape krita -y
 #videos edit and player
 sudo apt install vlc kazam kdenlive ffmpeg -y
 
+#firmwares
+sudo apt install dfu-util -y
+
+#sdrs
+sudo apt install sdrangel -y
+sudo apt install hackrf -y
+sudo apt install libhackrf-dev -y
+sudo apt install rtl-sdr -y
+sudo apt install librtlsdr-dev -y
+
 #gnome
 #sudo apt install gnome-tweaks materia-gtk-theme gnome-shell-extension-dash-to-panel gnome-shell-extension-arc-menu gnome-shell-extensions -y
