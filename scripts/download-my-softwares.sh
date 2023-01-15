@@ -42,6 +42,7 @@ sudo apt install vlc kazam kdenlive ffmpeg -y
 sudo apt install dfu-util -y
 
 #sdrs
+sudo apt install gnuradio -y
 sudo apt install sdrangel -y
 sudo apt install hackrf -y
 sudo apt install libhackrf-dev -y
