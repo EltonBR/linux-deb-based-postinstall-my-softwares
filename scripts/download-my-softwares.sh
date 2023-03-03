@@ -26,7 +26,7 @@ sudo apt install code google-chrome-stable -y
 
 #tools
 sudo apt install minicom aircrack-ng gparted aria2 -y
-
+sudo apt install btrfs-progs -y
 sudo apt install pdfimages -y
 
 #virtualization
